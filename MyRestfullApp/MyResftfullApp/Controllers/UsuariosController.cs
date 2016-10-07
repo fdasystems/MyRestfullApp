@@ -17,10 +17,6 @@ namespace MyResftfullApp.Controllers
     {
         private IRepository _repository;
 
-        /*public UsuariosController() 
-        {
-            _repository = new Repository();
-        }*/
 
         public UsuariosController(IRepository repository)
         {
