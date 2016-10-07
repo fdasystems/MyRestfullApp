@@ -1,0 +1,110 @@
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.dll.config
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Helpers.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Mvc.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Razor.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Optimization.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Helpers.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Mvc.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Razor.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Optimization.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Http.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.csprojResolveAssemblyReference.cache
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\myrestFull.Service.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyRestfull.Data.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\EntityFramework.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\myrestFull.Service.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\MyRestfull.Data.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\EntityFramework.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Castle.Core.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Moq.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Castle.Core.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\MyResftfullApp.Tests\bin\Debug\Moq.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.dll.config
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.Tests.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Castle.Core.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Moq.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyRestfull.Data.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\myrestFull.Service.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\EntityFramework.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyResftfullApp.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\MyRestfull.Data.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\myrestFull.Service.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Castle.Core.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Moq.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\EntityFramework.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Http.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Razor.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.csprojResolveAssemblyReference.cache
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\obj\Debug\MyResftfullApp.Tests.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\WebActivatorEx.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.Unity.WebApi.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.Unity.WebApi.xml
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\MyRestfullApp\MyRestfullApp\MyResftfullApp.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml

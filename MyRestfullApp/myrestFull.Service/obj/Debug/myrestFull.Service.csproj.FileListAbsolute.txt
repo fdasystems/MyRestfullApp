@@ -1,0 +1,24 @@
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\obj\Debug\myrestFull.Service.csprojResolveAssemblyReference.cache
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\myrestFull.Service.dll.config
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\myrestFull.Service.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\myrestFull.Service.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\EntityFramework.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\EntityFramework.SqlServer.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\MyRestfull.Data.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\MyRestfull.Data.pdb
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\EntityFramework.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\bin\EntityFramework.SqlServer.xml
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\obj\Debug\myrestFull.Service.dll
+E:\FDA\Test Tecnicos - para ingresos laborales\Practicos\MyResftfullApp\MyResftfullApp\myrestFull.Service\obj\Debug\myrestFull.Service.pdb
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\myrestFull.Service.dll.config
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\myrestFull.Service.dll
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\myrestFull.Service.pdb
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\EntityFramework.dll
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\EntityFramework.SqlServer.dll
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\MyRestfull.Data.dll
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\MyRestfull.Data.pdb
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\EntityFramework.xml
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\bin\EntityFramework.SqlServer.xml
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\obj\Debug\MyRestFull.Service.csprojResolveAssemblyReference.cache
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\obj\Debug\myrestFull.Service.dll
+C:\MyRestfullApp\MyRestfullApp\myrestFull.Service\obj\Debug\myrestFull.Service.pdb
